@@ -1,6 +1,7 @@
 # Lecture 2
 # About Scope and Hoisting!
 ![](./%D0%91%D0%B5%D0%B7%20%D0%BD%D0%B0%D0%B7%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F.png)
+![](./images%20(3).png)
 # Waht is scope in Js?
 ## Scope in oblast vidimost ast, mintaqai muaian ,ki mo metavonem kodhoiamonro dar onjo navisem. The scope is the current context of execution in which values and expressionsare "visible" or can be referenced. If a variable or expression is not in the currentscope, it will not be available for use. Scopes can also be layered in a hierarchy,so that child scopes have access to parent scopes, but not vice versa.
 ![](./images.jpg)
